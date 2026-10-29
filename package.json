@@ -1,0 +1,15 @@
+{
+  "name": "mindmate-ai",
+  "version": "1.0.0",
+  "description": "MindMate AI - Context-aware AI mental wellness & study companion",
+  "scripts": {
+    "dev": "node run.js",
+    "start": "node run.js",
+    "server": "cd server && node app.js",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["ai", "gemini", "mental-health", "study-planner", "wellness"],
+  "author": "MindMate Team",
+  "license": "MIT"
+}
